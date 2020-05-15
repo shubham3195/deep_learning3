@@ -12,3 +12,5 @@ models folder contain two models
 # github is not allowing to upload 2nd model because of its size.
 
 # the whole work is done on colab so if for any issues refer original files of colab (rnn_snli.ipynb)
+
+# For embedding i used a pretrainned embedding because colab is taking much time for training purpose.(wiki)
